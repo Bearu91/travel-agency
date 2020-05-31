@@ -33,3 +33,4 @@ Trips.propTypes = {
 };
 
 export default Trips;
+
